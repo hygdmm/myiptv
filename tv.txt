@@ -557,7 +557,7 @@ CCTV第一剧场-7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 CCTV风云剧场-7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 CCTV风云足球-7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV风云音乐-7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-CCTV高尔夫·网球--7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+CCTV高尔夫·网球-7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 CGTN-8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 CGTN俄语-8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227078/index.m3u8
 CGTN法语-8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227058/index.m3u8
@@ -624,7 +624,7 @@ SiTV都市剧场-8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 岚皋电视台-6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227057/index.m3u8
 府谷1-7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226990/index.m3u8
 志丹-6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226989/index.m3u8
-扶风--8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227005/index.m3u8
+扶风-8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227005/index.m3u8
 榆林1-7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226377/index.m3u8
 榆阳区-6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227017/index.m3u8
 横山区-6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227054/index.m3u8
@@ -634,12 +634,12 @@ SiTV都市剧场-8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 洋县1-4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226938/index.m3u8
 渭南公共频道-6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227001/index.m3u8
 眉县新闻综合-6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227069/index.m3u8
-石泉--2M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226965/index.m3u8
-神木--8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226993/index.m3u8
+石泉-2M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226965/index.m3u8
+神木-8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226993/index.m3u8
 紫阳-4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227002/index.m3u8
 西乡-2M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
 镇坪综合-2M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227032/index.m3u8
-岐山--8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226982/index.m3u8
+岐山-8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226982/index.m3u8
 黄陵-7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226992/index.m3u8
 CCTV1-720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
 百视通体育-720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
@@ -854,7 +854,7 @@ CCTV第一剧场-7M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090
 CCTV风云剧场-7M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV风云足球-7M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV风云音乐-7M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV高尔夫·网球--7M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV高尔夫·网球-7M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN-8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN俄语-8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN法语-8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -918,7 +918,7 @@ SiTV都市剧场-8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090
 岚皋电视台-6M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002761/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 府谷1-7M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002565/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 志丹-6M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002757/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-扶风--8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002563/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+扶风-8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002563/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 榆林1-7M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 榆阳区-6M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002685/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 横山区-6M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002695/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -928,12 +928,12 @@ SiTV都市剧场-8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090
 洋县1-4M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002405/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 渭南公共频道-6M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002797/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 眉县新闻综合-6M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002882/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-石泉--2M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-神木--8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002575/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+石泉-2M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+神木-8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002575/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 紫阳-4M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002605/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 西乡-2M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002207/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 镇坪综合-2M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002815/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-岐山--8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002564/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+岐山-8M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002564/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黄陵-7M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002806/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏好享购物-720,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001277/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 央广购物-720,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001286/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
