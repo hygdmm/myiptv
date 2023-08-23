@@ -12389,7 +12389,6 @@ CETV4,http://222.212.90.192:18000/udp/239.93.0.133:5140
 四川科教,http://222.212.90.192:18000/udp/239.93.42.44:5140
 四川乡村,http://222.212.90.192:18000/udp/239.93.0.52:5140
 四川影视文艺,http://222.212.90.192:18000/udp/239.93.1.195:5140
-峨眉电影,http://222.212.90.192:18000/udp/239.93.42.47:5140
 峨眉电影,http://222.212.90.192:18000/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://222.212.90.192:18000/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://222.212.90.192:18000/udp/239.93.0.17:1239
@@ -12486,8 +12485,9 @@ IPTV宣传直播,http://222.212.90.192:18000/udp/239.93.1.206:5140
 熊猫24小时专区,http://222.212.90.192:18000/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://222.212.90.192:18000/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://222.212.90.192:18000/udp/239.93.1.189:5140
-熊猫影视高清专区,http://222.212.90.192:18000/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://222.212.90.192:18000/udp/239.93.1.117:5140
 熊猫影视高清专区,http://222.212.90.192:18000/udp/239.93.1.156:5140
+熊猫影视高清专区,http://222.212.90.192:18000/udp/239.93.42.47:5140
 熊猫影院专区,http://222.212.90.192:18000/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://222.212.90.192:18000/udp/239.93.1.112:5140
 熊猫爱生活高清专区,http://222.212.90.192:18000/udp/239.93.1.190:5140
@@ -12564,7 +12564,6 @@ CETV4,http://tangdoor.f3322.net:9999/udp/239.93.0.133:5140
 四川科教,http://tangdoor.f3322.net:9999/udp/239.93.42.44:5140
 四川乡村,http://tangdoor.f3322.net:9999/udp/239.93.0.52:5140
 四川影视文艺,http://tangdoor.f3322.net:9999/udp/239.93.1.195:5140
-峨眉电影,http://tangdoor.f3322.net:9999/udp/239.93.42.47:5140
 峨眉电影,http://tangdoor.f3322.net:9999/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://tangdoor.f3322.net:9999/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://tangdoor.f3322.net:9999/udp/239.93.0.17:1239
@@ -12661,8 +12660,9 @@ IPTV宣传直播,http://tangdoor.f3322.net:9999/udp/239.93.1.206:5140
 熊猫24小时专区,http://tangdoor.f3322.net:9999/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://tangdoor.f3322.net:9999/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://tangdoor.f3322.net:9999/udp/239.93.1.189:5140
-熊猫影视高清专区,http://tangdoor.f3322.net:9999/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://tangdoor.f3322.net:9999/udp/239.93.1.117:5140
 熊猫影视高清专区,http://tangdoor.f3322.net:9999/udp/239.93.1.156:5140
+熊猫影视高清专区,http://tangdoor.f3322.net:9999/udp/239.93.42.47:5140
 熊猫影院专区,http://tangdoor.f3322.net:9999/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://tangdoor.f3322.net:9999/udp/239.93.1.112:5140
 熊猫爱生活高清专区,http://tangdoor.f3322.net:9999/udp/239.93.1.190:5140
@@ -12739,7 +12739,6 @@ CETV4,http://wouu.net:9977/udp/239.93.0.133:5140
 四川科教,http://wouu.net:9977/udp/239.93.42.44:5140
 四川乡村,http://wouu.net:9977/udp/239.93.0.52:5140
 四川影视文艺,http://wouu.net:9977/udp/239.93.1.195:5140
-峨眉电影,http://wouu.net:9977/udp/239.93.42.47:5140
 峨眉电影,http://wouu.net:9977/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://wouu.net:9977/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://wouu.net:9977/udp/239.93.0.17:1239
@@ -12836,8 +12835,9 @@ IPTV宣传直播,http://wouu.net:9977/udp/239.93.1.206:5140
 熊猫24小时专区,http://wouu.net:9977/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://wouu.net:9977/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://wouu.net:9977/udp/239.93.1.189:5140
-熊猫影视高清专区,http://wouu.net:9977/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://wouu.net:9977/udp/239.93.1.117:5140
 熊猫影视高清专区,http://wouu.net:9977/udp/239.93.1.156:5140
+熊猫影视高清专区,http://wouu.net:9977/udp/239.93.42.47:5140
 熊猫影院专区,http://wouu.net:9977/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://wouu.net:9977/udp/239.93.1.112:5140
 熊猫爱生活高清专区,http://wouu.net:9977/udp/239.93.1.190:5140
@@ -12914,7 +12914,6 @@ CETV4,http://yujukoo.gicp.net:8888/udp/239.93.0.133:5140
 四川科教,http://yujukoo.gicp.net:8888/udp/239.93.42.44:5140
 四川乡村,http://yujukoo.gicp.net:8888/udp/239.93.0.52:5140
 四川影视文艺,http://yujukoo.gicp.net:8888/udp/239.93.1.195:5140
-峨眉电影,http://yujukoo.gicp.net:8888/udp/239.93.42.47:5140
 峨眉电影,http://yujukoo.gicp.net:8888/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://yujukoo.gicp.net:8888/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.17:1239
@@ -13011,8 +13010,9 @@ IPTV宣传直播,http://yujukoo.gicp.net:8888/udp/239.93.1.206:5140
 熊猫24小时专区,http://yujukoo.gicp.net:8888/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://yujukoo.gicp.net:8888/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://yujukoo.gicp.net:8888/udp/239.93.1.189:5140
-熊猫影视高清专区,http://yujukoo.gicp.net:8888/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://yujukoo.gicp.net:8888/udp/239.93.1.117:5140
 熊猫影视高清专区,http://yujukoo.gicp.net:8888/udp/239.93.1.156:5140
+熊猫影视高清专区,http://yujukoo.gicp.net:8888/udp/239.93.42.47:5140
 熊猫影院专区,http://yujukoo.gicp.net:8888/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://yujukoo.gicp.net:8888/udp/239.93.1.112:5140
 熊猫爱生活高清专区,http://yujukoo.gicp.net:8888/udp/239.93.1.190:5140
@@ -13089,7 +13089,6 @@ CETV4,http://smtp.iotfun.net:55555/udp/239.93.0.133:5140
 四川科教,http://smtp.iotfun.net:55555/udp/239.93.42.44:5140
 四川乡村,http://smtp.iotfun.net:55555/udp/239.93.0.52:5140
 四川影视文艺,http://smtp.iotfun.net:55555/udp/239.93.1.195:5140
-峨眉电影,http://smtp.iotfun.net:55555/udp/239.93.42.47:5140
 峨眉电影,http://smtp.iotfun.net:55555/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://smtp.iotfun.net:55555/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://smtp.iotfun.net:55555/udp/239.93.0.17:1239
@@ -13186,7 +13185,8 @@ IPTV宣传直播,http://smtp.iotfun.net:55555/udp/239.93.1.206:5140
 熊猫24小时专区,http://smtp.iotfun.net:55555/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://smtp.iotfun.net:55555/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://smtp.iotfun.net:55555/udp/239.93.1.189:5140
-熊猫影视高清专区,http://smtp.iotfun.net:55555/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://smtp.iotfun.net:55555/udp/239.93.1.117:5140
+熊猫影视高清专区,http://smtp.iotfun.net:55555/udp/239.93.42.47:5140
 熊猫影视高清专区,http://smtp.iotfun.net:55555/udp/239.93.1.156:5140
 熊猫影院专区,http://smtp.iotfun.net:55555/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://smtp.iotfun.net:55555/udp/239.93.1.112:5140
@@ -13264,7 +13264,6 @@ CETV4,http://j.cxctu.cf:4000/udp/239.93.0.133:5140
 四川科教,http://j.cxctu.cf:4000/udp/239.93.42.44:5140
 四川乡村,http://j.cxctu.cf:4000/udp/239.93.0.52:5140
 四川影视文艺,http://j.cxctu.cf:4000/udp/239.93.1.195:5140
-峨眉电影,http://j.cxctu.cf:4000/udp/239.93.42.47:5140
 峨眉电影,http://j.cxctu.cf:4000/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://j.cxctu.cf:4000/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://j.cxctu.cf:4000/udp/239.93.0.17:1239
@@ -13361,7 +13360,8 @@ IPTV宣传直播,http://j.cxctu.cf:4000/udp/239.93.1.206:5140
 熊猫24小时专区,http://j.cxctu.cf:4000/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://j.cxctu.cf:4000/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://j.cxctu.cf:4000/udp/239.93.1.189:5140
-熊猫影视高清专区,http://j.cxctu.cf:4000/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://j.cxctu.cf:4000/udp/239.93.1.117:5140
+熊猫影视高清专区,http://j.cxctu.cf:4000/udp/239.93.42.47:5140
 熊猫影视高清专区,http://j.cxctu.cf:4000/udp/239.93.1.156:5140
 熊猫影院专区,http://j.cxctu.cf:4000/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://j.cxctu.cf:4000/udp/239.93.1.112:5140
@@ -13439,7 +13439,6 @@ CETV4,http://webdisk.iotfun.net:55555/udp/239.93.0.133:5140
 四川科教,http://webdisk.iotfun.net:55555/udp/239.93.42.44:5140
 四川乡村,http://webdisk.iotfun.net:55555/udp/239.93.0.52:5140
 四川影视文艺,http://webdisk.iotfun.net:55555/udp/239.93.1.195:5140
-峨眉电影,http://webdisk.iotfun.net:55555/udp/239.93.42.47:5140
 峨眉电影,http://webdisk.iotfun.net:55555/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://webdisk.iotfun.net:55555/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://webdisk.iotfun.net:55555/udp/239.93.0.17:1239
@@ -13536,7 +13535,8 @@ IPTV宣传直播,http://webdisk.iotfun.net:55555/udp/239.93.1.206:5140
 熊猫24小时专区,http://webdisk.iotfun.net:55555/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://webdisk.iotfun.net:55555/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://webdisk.iotfun.net:55555/udp/239.93.1.189:5140
-熊猫影视高清专区,http://webdisk.iotfun.net:55555/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://webdisk.iotfun.net:55555/udp/239.93.1.117:5140
+熊猫影视高清专区,http://webdisk.iotfun.net:55555/udp/239.93.42.47:5140
 熊猫影视高清专区,http://webdisk.iotfun.net:55555/udp/239.93.1.156:5140
 熊猫影院专区,http://webdisk.iotfun.net:55555/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://webdisk.iotfun.net:55555/udp/239.93.1.112:5140
@@ -13614,7 +13614,6 @@ CETV4,http://tom028.top:55555/udp/239.93.0.133:5140
 四川科教,http://tom028.top:55555/udp/239.93.42.44:5140
 四川乡村,http://tom028.top:55555/udp/239.93.0.52:5140
 四川影视文艺,http://tom028.top:55555/udp/239.93.1.195:5140
-峨眉电影,http://tom028.top:55555/udp/239.93.42.47:5140
 峨眉电影,http://tom028.top:55555/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://tom028.top:55555/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://tom028.top:55555/udp/239.93.0.17:1239
@@ -13711,8 +13710,9 @@ IPTV宣传直播,http://tom028.top:55555/udp/239.93.1.206:5140
 熊猫24小时专区,http://tom028.top:55555/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://tom028.top:55555/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://tom028.top:55555/udp/239.93.1.189:5140
-熊猫影视高清专区,http://tom028.top:55555/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://tom028.top:55555/udp/239.93.1.117:5140
 熊猫影视高清专区,http://tom028.top:55555/udp/239.93.1.156:5140
+熊猫影视高清专区,http://tom028.top:55555/udp/239.93.42.47:5140
 熊猫影院专区,http://tom028.top:55555/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://tom028.top:55555/udp/239.93.1.112:5140
 熊猫爱生活高清专区,http://tom028.top:55555/udp/239.93.1.190:5140
@@ -13789,7 +13789,6 @@ CETV4,http://hybbb.v6.rocks:8800/udp/239.93.0.133:5140
 四川科教,http://hybbb.v6.rocks:8800/udp/239.93.42.44:5140
 四川乡村,http://hybbb.v6.rocks:8800/udp/239.93.0.52:5140
 四川影视文艺,http://hybbb.v6.rocks:8800/udp/239.93.1.195:5140
-峨眉电影,http://hybbb.v6.rocks:8800/udp/239.93.42.47:5140
 峨眉电影,http://hybbb.v6.rocks:8800/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://hybbb.v6.rocks:8800/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://hybbb.v6.rocks:8800/udp/239.93.0.17:1239
@@ -13886,8 +13885,9 @@ IPTV宣传直播,http://hybbb.v6.rocks:8800/udp/239.93.1.206:5140
 熊猫24小时专区,http://hybbb.v6.rocks:8800/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://hybbb.v6.rocks:8800/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://hybbb.v6.rocks:8800/udp/239.93.1.189:5140
-熊猫影视高清专区,http://hybbb.v6.rocks:8800/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://hybbb.v6.rocks:8800/udp/239.93.1.117:5140
 熊猫影视高清专区,http://hybbb.v6.rocks:8800/udp/239.93.1.156:5140
+熊猫影视高清专区,http://hybbb.v6.rocks:8800/udp/239.93.42.47:5140
 熊猫影院专区,http://hybbb.v6.rocks:8800/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://hybbb.v6.rocks:8800/udp/239.93.1.112:5140
 熊猫爱生活高清专区,http://hybbb.v6.rocks:8800/udp/239.93.1.190:5140
@@ -13964,7 +13964,6 @@ CETV4,http://cpanel.iotfun.net:55555/udp/239.93.0.133:5140
 四川科教,http://cpanel.iotfun.net:55555/udp/239.93.42.44:5140
 四川乡村,http://cpanel.iotfun.net:55555/udp/239.93.0.52:5140
 四川影视文艺,http://cpanel.iotfun.net:55555/udp/239.93.1.195:5140
-峨眉电影,http://cpanel.iotfun.net:55555/udp/239.93.42.47:5140
 峨眉电影,http://cpanel.iotfun.net:55555/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://cpanel.iotfun.net:55555/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://cpanel.iotfun.net:55555/udp/239.93.0.17:1239
@@ -14061,7 +14060,8 @@ IPTV宣传直播,http://cpanel.iotfun.net:55555/udp/239.93.1.206:5140
 熊猫24小时专区,http://cpanel.iotfun.net:55555/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://cpanel.iotfun.net:55555/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://cpanel.iotfun.net:55555/udp/239.93.1.189:5140
-熊猫影视高清专区,http://cpanel.iotfun.net:55555/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://cpanel.iotfun.net:55555/udp/239.93.1.117:5140
+熊猫影视高清专区,http://cpanel.iotfun.net:55555/udp/239.93.42.47:5140
 熊猫影视高清专区,http://cpanel.iotfun.net:55555/udp/239.93.1.156:5140
 熊猫影院专区,http://cpanel.iotfun.net:55555/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://cpanel.iotfun.net:55555/udp/239.93.1.112:5140
@@ -14139,7 +14139,6 @@ CETV4,http://m.iotfun.net:55555/udp/239.93.0.133:5140
 四川科教,http://m.iotfun.net:55555/udp/239.93.42.44:5140
 四川乡村,http://m.iotfun.net:55555/udp/239.93.0.52:5140
 四川影视文艺,http://m.iotfun.net:55555/udp/239.93.1.195:5140
-峨眉电影,http://m.iotfun.net:55555/udp/239.93.42.47:5140
 峨眉电影,http://m.iotfun.net:55555/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://m.iotfun.net:55555/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://m.iotfun.net:55555/udp/239.93.0.17:1239
@@ -14236,8 +14235,9 @@ IPTV宣传直播,http://m.iotfun.net:55555/udp/239.93.1.206:5140
 熊猫24小时专区,http://m.iotfun.net:55555/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://m.iotfun.net:55555/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://m.iotfun.net:55555/udp/239.93.1.189:5140
-熊猫影视高清专区,http://m.iotfun.net:55555/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://m.iotfun.net:55555/udp/239.93.1.117:5140
 熊猫影视高清专区,http://m.iotfun.net:55555/udp/239.93.1.156:5140
+熊猫影视高清专区,http://m.iotfun.net:55555/udp/239.93.42.47:5140
 熊猫影院专区,http://m.iotfun.net:55555/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://m.iotfun.net:55555/udp/239.93.1.112:5140
 熊猫爱生活高清专区,http://m.iotfun.net:55555/udp/239.93.1.190:5140
@@ -14314,7 +14314,6 @@ CETV4,http://n1.jimgo.win:4022/udp/239.93.0.133:5140
 四川科教,http://n1.jimgo.win:4022/udp/239.93.42.44:5140
 四川乡村,http://n1.jimgo.win:4022/udp/239.93.0.52:5140
 四川影视文艺,http://n1.jimgo.win:4022/udp/239.93.1.195:5140
-峨眉电影,http://n1.jimgo.win:4022/udp/239.93.42.47:5140
 峨眉电影,http://n1.jimgo.win:4022/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://n1.jimgo.win:4022/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://n1.jimgo.win:4022/udp/239.93.0.17:1239
@@ -14411,7 +14410,8 @@ IPTV宣传直播,http://n1.jimgo.win:4022/udp/239.93.1.206:5140
 熊猫24小时专区,http://n1.jimgo.win:4022/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://n1.jimgo.win:4022/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://n1.jimgo.win:4022/udp/239.93.1.189:5140
-熊猫影视高清专区,http://n1.jimgo.win:4022/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://n1.jimgo.win:4022/udp/239.93.1.117:5140
+熊猫影视高清专区,http://n1.jimgo.win:4022/udp/239.93.42.47:5140
 熊猫影视高清专区,http://n1.jimgo.win:4022/udp/239.93.1.156:5140
 熊猫影院专区,http://n1.jimgo.win:4022/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://n1.jimgo.win:4022/udp/239.93.1.112:5140
@@ -14489,7 +14489,6 @@ CETV4,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.133:5140
 四川科教,http://xubo0712.asuscomm.cn:9999/udp/239.93.42.44:5140
 四川乡村,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.52:5140
 四川影视文艺,http://xubo0712.asuscomm.cn:9999/udp/239.93.1.195:5140
-峨眉电影,http://xubo0712.asuscomm.cn:9999/udp/239.93.42.47:5140
 峨眉电影,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.252:5140
 CDTV-1新闻综合,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.16:5140
 CDTV-2经济资讯,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.17:1239
@@ -14586,8 +14585,9 @@ IPTV宣传直播,http://xubo0712.asuscomm.cn:9999/udp/239.93.1.206:5140
 熊猫24小时专区,http://xubo0712.asuscomm.cn:9999/udp/239.93.1.178:5140
 熊猫体娱高清专区,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.94:5140
 熊猫少儿高清专区,http://xubo0712.asuscomm.cn:9999/udp/239.93.1.189:5140
-熊猫影视高清专区,http://xubo0712.asuscomm.cn:9999/udp/239.93.1.117:5140
+熊猫综艺高清专区,http://xubo0712.asuscomm.cn:9999/udp/239.93.1.117:5140
 熊猫影视高清专区,http://xubo0712.asuscomm.cn:9999/udp/239.93.1.156:5140
+熊猫影视高清专区,http://xubo0712.asuscomm.cn:9999/udp/239.93.42.47:5140
 熊猫影院专区,http://xubo0712.asuscomm.cn:9999/udp/239.93.0.214:5140
 熊猫新闻高清专区,http://xubo0712.asuscomm.cn:9999/udp/239.93.1.112:5140
 熊猫爱生活高清专区,http://xubo0712.asuscomm.cn:9999/udp/239.93.1.190:5140
