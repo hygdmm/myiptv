@@ -4902,13 +4902,15 @@ CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4k
 
 
 河北地方台,#genre#
-河北经济生活,http://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
-河北农民,http://event.pull.hebtv.com/jishi/nongminpindao.m3u8
-河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
-河北影视剧,http://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
-河北少儿,http://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
-河北公共,http://event.pull.hebtv.com/jishi/gonggongpindao.m3u8
-河北三佳购物,http://event.pull.hebtv.com/jishi/sanjiagouwu.m3u8
+河北卫视,http://chghome.top:8888/rtp/239.253.92.154:6011
+河北经济生活,http://chghome.top:8888/rtp/239.253.92.171:6001
+河北都市,http://chghome.top:8888/rtp/239.253.92.172:6002
+河北影视剧,http://chghome.top:8888/rtp/239.253.92.173:6003
+河北少儿科教,http://chghome.top:8888/rtp/239.253.92.174:6004
+河北公共,http://chghome.top:8888/rtp/239.253.92.175:6005
+河北农民,http://chghome.top:8888/rtp/239.253.92.176:6006
+三佳购物,http://chghome.top:8888/rtp/239.253.92.24:8130
+睛彩河北,http://chghome.top:8888/rtp/239.253.92.104:6221
 石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/HD/live.m3u8
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/HD2/live.m3u8
 石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/HD3/live.m3u8
