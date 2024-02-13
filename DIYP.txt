@@ -198,6 +198,18 @@ CGTN纪录,http://zteres.sn.chinamobile.com:6060/000000001000/711464783776510405
 CETV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 
+CCTV-3_4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/CONAN/224/3221228499/1.m3u8
+CCTV-3_4K,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/CONAN/224/3221228499/1.m3u8
+CCTV-5_4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/CONAN/224/3221228502/1.m3u8
+CCTV-5_4K,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/CONAN/224/3221228502/1.m3u8
+CCTV-16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/CONAN/224/3221228314/1.m3u8
+CCTV-16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/CONAN/224/3221228314/1.m3u8
+CCTV-16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/CONAN/224/3221228168/1.m3u8
+CCTV-16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/CONAN/224/3221228168/1.m3u8
+CCTV-16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/CONAN/224/3221228168/1.m3u8
+CCTV-16_4K,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/CONAN/224/3221228168/1.m3u8
+CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/CONAN/224/3221228472/1.m3u8
+CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/CONAN/224/3221228472/1.m3u8
 CCTV-16_4K,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/CONAN/224/3221228228/1.m3u8
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/CONAN/224/3221228228/1.m3u8
