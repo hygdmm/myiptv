@@ -269,6 +269,9 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230960/1.m
 陕西西部电影,http://tiger81.i234.me:8888/rtp/239.111.205.102:5140
 陕西乐家购物,http://tiger81.i234.me:8888/rtp/239.111.205.101:5140
 
+陕西卫视,http://office.gofaraway.top:888/udp/238.125.2.165:5140
+陕西卫视,http://office.gofaraway.top:888/udp/238.125.5.121:5140
+
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=3
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000021288/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
@@ -281,6 +284,12 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230960/1.m
 天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006827/1.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
 河北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=3
 河北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
+山西卫视,http://223.10.112.69:18000/hls/22/index.m3u8
+山西卫视,http://1.69.115.224:9902/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8
+山西卫视,http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&amp;protocol=hls&amp;accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&amp;playtoken=31607WESMAQDI&amp;programid=4200000166.m3u8
+内蒙古卫视,http://tljdh.vip:9901/tsfile/live/1038_1.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001945/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=3
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=3
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000001000008940/1.m3u8?channel-id=bestzb&Contentid=5000000001000008940&livemode=1&stbId=3
@@ -365,7 +374,11 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230960/1.m
 云南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031120/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
 甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=3
 甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 青海卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
+新疆卫视,http://office.gofaraway.top:888/udp/238.125.3.174:5140
+新疆卫视,http://office.gofaraway.top:888/udp/238.125.7.145:5140
+
 
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
