@@ -2561,30 +2561,6 @@ PPTV5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/3000000001000008176/1.m
 
 
 河北地方台,#genre#
-河北卫视高清,http://pwd.unnas.top:4000/rtp/239.253.92.154:6011
-河北经济生活高清,http://pwd.unnas.top:4000/rtp/239.253.92.171:6001
-河北都市高清,http://pwd.unnas.top:4000/rtp/239.253.92.172:6002
-河北影视剧高清,http://pwd.unnas.top:4000/rtp/239.253.92.173:6003
-河北少儿科教高清,http://pwd.unnas.top:4000/rtp/239.253.92.174:6004
-河北公共高清,http://pwd.unnas.top:4000/rtp/239.253.92.175:6005
-河北农民高清,http://pwd.unnas.top:4000/rtp/239.253.92.176:6006
-三佳购物高清,http://pwd.unnas.top:4000/rtp/239.253.92.24:8130
-睛彩河北,http://pwd.unnas.top:4000/rtp/239.253.92.104:6221
-
-石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/HD/live.m3u8
-石家庄娱乐,http://pluslive1.sjzntv.cn/yule/HD2/live.m3u8
-石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/HD3/live.m3u8
-石家庄都市,http://pluslive1.sjzntv.cn/dushi/HD4/live.m3u8
-
-河北卫视,http://121.24.99.174:8090/hls/25/index.m3u8
-河北经济生活,http://121.24.99.174:8090/hls/26/index.m3u8
-河北农民,http://121.24.99.174:8090/hls/27/index.m3u8
-河北都市,http://121.24.99.174:8090/hls/28/index.m3u8
-河北影视剧,http://121.24.99.174:8090/hls/29/index.m3u8
-河北少儿科教,http://121.24.99.174:8090/hls/30/index.m3u8
-河北公共,http://121.24.99.174:8090/hls/31/index.m3u8
-
-
 河北卫视高清,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.154:6011
 河北经济生活高清,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.171:6001
 河北都市高清,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.172:6002
@@ -2594,3 +2570,8 @@ PPTV5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/3000000001000008176/1.m
 河北农民高清,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.176:6006
 三佳购物高清,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.24:8130
 睛彩河北,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.104:6221
+
+石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/HD/live.m3u8
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/HD2/live.m3u8
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/HD3/live.m3u8
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/HD4/live.m3u8
