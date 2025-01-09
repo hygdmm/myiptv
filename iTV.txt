@@ -58,7 +58,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 陕西都市青春,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
 陕西都市青春,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227102/index.m3u8
 陕西生活,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
-陕西影视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
 陕西公共,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
 陕西乐家购物,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226362/index.m3u8
 陕西体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
