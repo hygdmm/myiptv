@@ -28,6 +28,7 @@ CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
 CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
 CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
 CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
+CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227140/index.m3u8
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 CGTN纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227084/index.m3u8
 CGTN法语,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227058/index.m3u8
@@ -68,6 +69,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/in
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
+北京卫视-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227112/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226199/index.m3u8
@@ -182,6 +184,7 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/i
 家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226247/index.m3u8
 财富天下,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226350/index.m3u8
 快乐购,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226353/index.m3u8
+优购物,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227115/index.m3u8
 西安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/index.m3u8
 西安都市频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/index.m3u8
 西安商务资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
@@ -306,7 +309,6 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/i
 百视通7116,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227116/index.m3u8
 百视通7119,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227119/index.m3u8
 百视通7122,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227122/index.m3u8
-
 
 陕西银河,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
