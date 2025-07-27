@@ -331,9 +331,9 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 陕西都市青春,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西都市青春,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002937/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西体育休闲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西生活,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西银龄,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西乐家购物,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001731/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西公共,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西秦腔,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西西部电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 农林卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
