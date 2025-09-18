@@ -68,16 +68,19 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/in
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
-湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/index.m3u8
-安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226203/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
-天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
-山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
-辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
+辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/index.m3u8
+重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
+安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226203/index.m3u8
+天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/index.m3u8
+山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
+新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227136/index.m3u8
+西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227147/index.m3u8
+兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227155/index.m3u8
 信号测试1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
 信号测试2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/index.m3u8
@@ -137,6 +140,7 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/index.m3u8
 西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8
 甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225754/index.m3u8
 宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
+宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227145/index.m3u8
 青海卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
 安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226228/index.m3u8
 新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
@@ -274,6 +278,7 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/index.m3u8
 百视通7116,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227116/index.m3u8
 百视通7119,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227119/index.m3u8
 百视通7122,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227122/index.m3u8
+
 
 
 陕西银河,#genre#
