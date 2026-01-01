@@ -50,6 +50,7 @@ CHC影迷电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/in
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227096/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227168/index.m3u8
 陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
 陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227099/index.m3u8
 陕西都市青春,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8
@@ -57,7 +58,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/in
 陕西银龄,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
 陕西秦腔,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/index.m3u8
 陕西秦腔,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
-陕西乐家购物,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/index.m3u8
 陕西体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/index.m3u8
 陕西体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227111/index.m3u8
 陕西西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/index.m3u8
@@ -90,6 +90,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/in
 CETV早期教育,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227143/index.m3u8
 好享购物,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226018/index.m3u8
 央广购物,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226032/index.m3u8
+央广购物,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227151/index.m3u8
 聚鲨环球精选,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225762/index.m3u8
@@ -152,12 +153,10 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/index.m3u8
 中央新影老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227118/index.m3u8
 中央新影中学生,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227132/index.m3u8
 书画,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227129/index.m3u8
-财富天下,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226350/index.m3u8
 快乐购,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226353/index.m3u8
 优购物,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227115/index.m3u8
 西安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/index.m3u8
 西安都市频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/index.m3u8
-西安商务资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
 西安戏剧影视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/index.m3u8
 西安丝路频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/index.m3u8
 西安教育,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
@@ -172,8 +171,7 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/index.m3u8
 铜川2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 铜川宜君,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226974/index.m3u8
 铜川耀州,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
-宝鸡1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
-宝鸡2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226384/index.m3u8
+宝鸡新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
 宝鸡千阳,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
 宝鸡岐山,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226982/index.m3u8
 宝鸡扶风,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
@@ -199,7 +197,6 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/index.m3u8
 咸阳淳化,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227080/index.m3u8
 咸阳彬州,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227087/index.m3u8
 渭南新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8
-渭南公共频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227001/index.m3u8
 渭南富平,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
 渭南蒲城,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8
 渭南澄城,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227007/index.m3u8
@@ -223,9 +220,7 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/index.m3u8
 延安甘泉,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227056/index.m3u8
 延安子长,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227061/index.m3u8
 延安延川,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227064/index.m3u8
-汉中1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
-汉中2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/index.m3u8
-汉中3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
+汉中综合频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
 汉中留坝,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226000/index.m3u8
 汉中略阳,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/index.m3u8
 汉中宁强,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226390/index.m3u8
@@ -236,7 +231,7 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/index.m3u8
 汉中洋县,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
 汉中勉县,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 汉中南郑,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226955/index.m3u8
-榆林1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
+榆林综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
 榆林米脂,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226964/index.m3u8
 榆林靖边,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226980/index.m3u8
 榆林吴堡,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226983/index.m3u8
@@ -249,7 +244,7 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/index.m3u8
 榆林横山,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227054/index.m3u8
 榆林佳县,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8
 榆林子洲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227104/index.m3u8
-安康1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8
+安康综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8
 安康石泉,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8
 安康白河,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226973/index.m3u8
 安康汉阴,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226995/index.m3u8
@@ -259,8 +254,8 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/index.m3u8
 安康镇坪,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227032/index.m3u8
 安康岚皋,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227057/index.m3u8
 安康旬阳,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227090/index.m3u8
-商洛1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/index.m3u8
-商洛2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8
+商洛综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/index.m3u8
+商洛公共,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8
 商洛丹凤,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226962/index.m3u8
 商洛山阳,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226970/index.m3u8
 商洛商南,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
@@ -278,8 +273,19 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/index.m3u8
 百视通7116,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227116/index.m3u8
 百视通7119,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227119/index.m3u8
 百视通7122,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227122/index.m3u8
-
-
+GITV-GG-7154,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227154/index.m3u8
+GITV-GG-7157,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227157/index.m3u8
+GITV-GG-7160,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227160/index.m3u8
+GITV-GG-7163,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
+GITV-GG-7164,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227164/index.m3u8
+GITV-GG-7166,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227166/index.m3u8
+GITV-GG-7167,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227167/index.m3u8
+GITV-GG-7171,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227171/index.m3u8
+GITV-GG-7174,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8
+GITV-GG-7177,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227177/index.m3u8
+GITV-GG-7180,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
+GITV-GG-7183,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227183/index.m3u8
+GITV-GG-7186,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8
 
 陕西银河,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -333,6 +339,7 @@ CHC影迷电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002965/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001131/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西新闻资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002975/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西新闻资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西新闻资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -341,7 +348,6 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 陕西银龄,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西秦腔,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西秦腔,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001001/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西乐家购物,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001731/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西体育休闲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西体育休闲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001002/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西西部电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -373,6 +379,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 茶频道,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 好享购物,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001277/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 央广购物,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001286/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+G_JUJIAYX,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001141/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 聚鲨环球精选,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002023/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001018/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001840/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -437,13 +444,11 @@ CCTV-17,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001301/ind
 中央新影老故事,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001043/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 书画,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中央新影中学生,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-财富天下,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001689/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 快乐购,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001569/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 快乐购,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001590/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 优购物,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 西安新闻综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001720/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 西安都市频道,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-西安商务资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001732/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 西安戏剧影视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001769/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 西安丝路,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001779/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 西安教育,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -458,8 +463,7 @@ CCTV-17,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001301/ind
 铜川2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001770/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 铜川宜君,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002625/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 铜川耀州,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002635/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-宝鸡1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-宝鸡2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+宝鸡新闻综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宝鸡千阳,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002425/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宝鸡扶风,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002563/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宝鸡岐山,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002564/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -485,7 +489,6 @@ CCTV-17,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001301/ind
 咸阳长武,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002879/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 咸阳淳化,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002880/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 渭南新闻综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-渭南公共频道,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002797/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 渭南富平,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002561/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 渭南蒲城,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002615/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 渭南澄城,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002706/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -509,9 +512,7 @@ CCTV-17,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001301/ind
 延安宜川,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002805/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 延安黄陵,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002806/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 延安子长,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002916/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-汉中1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-汉中2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-汉中3,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+汉中综合频道,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 汉中留坝,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001268/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 汉中略阳,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 汉中宁强,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001870/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -522,7 +523,7 @@ CCTV-17,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001301/ind
 汉中洋县,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002405/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 汉中勉县,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002415/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 汉中南郑,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002435/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-榆林1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+榆林综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 榆林米脂,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002555/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 榆林府谷,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002565/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 榆林神木,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002575/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -535,7 +536,7 @@ CCTV-17,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001301/ind
 榆林清涧,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002745/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 榆林吴堡,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002755/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 榆林子洲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002915/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安康1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安康综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安康白河,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002560/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安康石泉,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安康紫阳,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002605/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -545,15 +546,27 @@ CCTV-17,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001301/ind
 安康旬阳,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002792/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安康平利,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002796/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安康镇坪,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002815/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-商洛1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001734/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-商洛2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002765/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+商洛综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001734/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+商洛公共,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002765/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 商洛山阳,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002558/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 商洛洛南,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002559/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 商洛丹凤,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 商洛镇安,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002756/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 商洛商南,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002775/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 商洛柞水,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002785/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+GITV-GG-1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001151/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001161/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-3,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001102/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001231/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-5,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001232/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-6,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001233/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-7,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001241/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-8,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001171/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-9,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001181/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-10,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001191/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-11,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001201/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-12,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001211/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+GITV-GG-13,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001221/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 移动iTV,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=10
