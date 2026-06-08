@@ -10,12 +10,10 @@ CCTV-5,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 CCTV-5+,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227110/index.m3u8
 CCTV-5+,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227073/index.m3u8
-CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
 CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
 CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227093/index.m3u8
 CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/index.m3u8
 CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
 CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
 CCTV-11,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
@@ -23,8 +21,10 @@ CCTV-12,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
 CCTV-13,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
 CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
 CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
+CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/index.m3u8
 CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
 CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
+CCTV-16-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227140/index.m3u8
 CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
 CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8
@@ -307,7 +307,6 @@ CCTV-5+,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002945/ind
 CCTV-5+,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-6,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002936/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-6,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-6,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-7,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-8,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002955/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-8,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -320,6 +319,7 @@ CCTV-14,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001292/ind
 CCTV-15,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-16,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-17,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-16-4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001021/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV世界地理,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1391,11 +1391,9 @@ CCTV-5,http://39.134.24.24/PLTV/88888888/224/3221232615/index.m3u8
 CCTV-5+,http://39.134.24.24/PLTV/88888888/224/3221225641/index.m3u8
 CCTV-5+,http://39.134.24.24/PLTV/88888888/224/3221225718/index.m3u8
 CCTV-5+,http://39.134.24.24/PLTV/88888888/224/3221232628/index.m3u8
-CCTV-6,http://39.134.24.24/PLTV/88888888/224/3221225811/index.m3u8
 CCTV-6,http://39.134.24.24/PLTV/88888888/224/3221226027/index.m3u8
 CCTV-6,http://39.134.24.24/PLTV/88888888/224/3221232617/index.m3u8
 CCTV-7,http://39.134.24.24/PLTV/88888888/224/3221225855/index.m3u8
-CCTV-8,http://39.134.24.24/PLTV/88888888/224/3221225813/index.m3u8
 CCTV-8,http://39.134.24.24/PLTV/88888888/224/3221226029/index.m3u8
 CCTV-8,http://39.134.24.24/PLTV/88888888/224/3221232630/index.m3u8
 CCTV-9,http://39.134.24.24/PLTV/88888888/224/3221232141/index.m3u8
@@ -1405,8 +1403,10 @@ CCTV-12,http://39.134.24.24/PLTV/88888888/224/3221232107/index.m3u8
 CCTV-13,http://39.134.24.24/PLTV/88888888/224/3221225827/index.m3u8
 CCTV-14,http://39.134.24.24/PLTV/88888888/224/3221225857/index.m3u8
 CCTV-15,http://39.134.24.24/PLTV/88888888/224/3221225636/index.m3u8
+CCTV-16,http://39.134.24.24/PLTV/88888888/224/3221225813/index.m3u8
 CCTV-16,http://39.134.24.24/PLTV/88888888/224/3221232508/index.m3u8
 CCTV-17,http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8
+CCTV-16-4K,http://39.134.24.24/PLTV/88888888/224/3221225811/index.m3u8
 CCTV-4K,http://39.134.24.24/PLTV/88888888/224/3221232639/index.m3u8
 陕西卫视,http://39.134.24.24/PLTV/88888888/224/3221229106/index.m3u8
 陕西卫视,http://39.134.24.24/PLTV/88888888/224/3221232619/index.m3u8
