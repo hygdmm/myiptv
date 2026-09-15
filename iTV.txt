@@ -581,7 +581,7 @@ GITV-GG-12,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001211/
 GITV-GG-13,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001221/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 GITV-GG-14,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001251/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-移动iTV易视腾,#genre#
+易视腾,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=10
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=10
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=10
@@ -862,7 +862,7 @@ CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000025333/in
 陕西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/7120278140251237664/index.m3u8?channel-id=ystenlive&Contentid=7120278140251237664&livemode=1&stbId=10
 青海卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6721180114242078041/index.m3u8?channel-id=ystenlive&Contentid=6721180114242078041&livemode=1&stbId=10
 
-移动iTV百视通,#genre#
+百视通,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=10
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030810/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=10
 CCTV-2,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031113/index.m3u8?channel-id=bestzb&Contentid=5000000005000031113&livemode=1&stbId=10
@@ -1029,7 +1029,7 @@ CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000012123/in
 西藏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5381760837640571168/index.m3u8?channel-id=bestzb&Contentid=5381760837640571168&livemode=1&stbId=10
 西藏藏语,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000021549/index.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=10
 
-移动iTV华数,#genre#
+华数,#genre#
 CCTV-1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=10
 CCTV-2,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000014161/index.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=10
 CCTV-3,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022313/index.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=10
@@ -1144,7 +1144,7 @@ CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/6000000005000042312/in
 陕西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6194965711565916623/index.m3u8?channel-id=wasusyt&Contentid=6194965711565916623&livemode=1&stbId=10
 青海卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6399324389404552555/index.m3u8?channel-id=wasusyt&Contentid=6399324389404552555&livemode=1&stbId=10
 
-移动iTV湖南BB,#genre#
+湖南BBLive,#genre#
 大湾区卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000045/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=10
 北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000026/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000026&livemode=1&stbId=10
 上海新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=10
@@ -1227,17 +1227,24 @@ NewTV魅力潇湘,http://zteres.sn.chinamobile.com:6060/000000001000/20000000030
 爱谍战,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=10
 爱赛车,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000055/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=10
 爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=10
-百视通02000000024,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000024&livemode=1&stbId=10
-百视通02000000025,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000025/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000025&livemode=1&stbId=10
-百视通02000000026,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000026/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000026&livemode=1&stbId=10
-百视通02000000027,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000027/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000027&livemode=1&stbId=10
-百视通02000000028,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000028/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000028&livemode=1&stbId=10
-百视通02000000029,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000029/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000029&livemode=1&stbId=10
-百视通02000000030,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000030&livemode=1&stbId=10
-百视通02000000049,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000049&livemode=1&stbId=10
-百视通02000000050,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000050/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000050&livemode=1&stbId=10
-百视通02000000051,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000051&livemode=1&stbId=10
-百视通02000000052,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000052/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=10
+百视通2000000024,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000024&livemode=1&stbId=10
+百视通2000000025,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000025/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000025&livemode=1&stbId=10
+百视通2000000026,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000026/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000026&livemode=1&stbId=10
+百视通2000000027,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000027/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000027&livemode=1&stbId=10
+百视通2000000028,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000028/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000028&livemode=1&stbId=10
+百视通2000000029,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000029/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000029&livemode=1&stbId=10
+百视通2000000030,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000030&livemode=1&stbId=10
+百视通2000000049,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000049&livemode=1&stbId=10
+百视通2000000050,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000050/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000050&livemode=1&stbId=10
+百视通2000000051,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000051&livemode=1&stbId=10
+百视通2000000052,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000052/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=10
+百视通2000000093,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000093/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000093&livemode=1&stbId=10
+百视通2000000094,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000094/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000094&livemode=1&stbId=10
+百视通2000000095,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000095/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000095&livemode=1&stbId=10
+百视通2000000096,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000096/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000096&livemode=1&stbId=10
+百视通2000000097,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000097/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000097&livemode=1&stbId=10
+百视通2000000098,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000098/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000098&livemode=1&stbId=10
+百视通2000000099,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000099/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000099&livemode=1&stbId=10
 购物频道3000000019,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000019/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=10
 购物频道3000000035,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000035/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000035&livemode=1&stbId=10
 购物频道3000000036,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000036&livemode=1&stbId=10
@@ -1266,7 +1273,8 @@ CETV-2,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000047/in
 山东教育卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000013/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000013&livemode=1&stbId=10
 延边卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=10
 
-移动iTV咪咕,#genre#
+
+咪咕,#genre#
 咪咕视频01000005308,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=10
 咪咕视频01000005969,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=10
 咪咕视频01000007218,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=10
@@ -1315,7 +1323,8 @@ CETV-2,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000047/in
 咪咕视频20000031315,http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000031315/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=10
 咪咕视频4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=10
 咪咕视频4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=10
-
+咪咕视频10000025943,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000025943/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025943&livemode=1&stbId=10
+咪咕视频10000027638,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000027638/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027638&livemode=1&stbId=10
 
 陕西移动IP地址,#genre#
 CCTV-1,http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8
