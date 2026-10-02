@@ -84,6 +84,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/in
 云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227195/index.m3u8
 河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227201/index.m3u8
+江西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227203/index.m3u8
 信号测试1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
 信号测试2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/index.m3u8
@@ -363,7 +364,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 黑龙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -381,6 +382,7 @@ CHC家庭影院,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 河南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 海南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001286/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 内蒙古卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001287/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 信号测试,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 信号测试,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金鹰纪实,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1383,6 +1385,7 @@ CCTV-4K,http://39.134.24.24/PLTV/88888888/224/3221232639/index.m3u8
 江苏卫视,http://39.134.24.24/PLTV/88888888/224/3221225602/index.m3u8
 浙江卫视,http://39.134.24.24/PLTV/88888888/224/3221225664/index.m3u8
 安徽卫视,http://39.134.24.24/PLTV/88888888/224/3221232145/index.m3u8
+江西卫视	http://39.134.24.24/PLTV/88888888/224/3221232693/index.m3u8
 山东卫视,http://39.134.24.24/PLTV/88888888/224/3221225841/index.m3u8
 河南卫视,http://39.134.24.24/PLTV/88888888/224/3221232688/index.m3u8
 湖北卫视,http://39.134.24.24/PLTV/88888888/224/3221225863/index.m3u8
